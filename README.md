@@ -16,3 +16,10 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+### Objekte
+
+**Aufgabe 3: Einfache Klasse mit Methoden**
+- Erstelle eine Klasse `Auto`, die Attribute wie `marke`, `modell` und `baujahr` hat.
+- Füge eine Methode hinzu, die das Alter des Autos basierend auf dem aktuellen Jahr berechnet.
+- Erstelle ein Objekt dieser Klasse und rufe die Methode auf, um das Alter des Autos zu erhalten.
